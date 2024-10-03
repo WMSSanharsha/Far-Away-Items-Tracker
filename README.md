@@ -1,5 +1,7 @@
 # Far Away - A Items Checklist Website Build Using React!
 
+- Site Live on - https://far-away-item-tracker.netlify.app/
+
 ![Screenshot 2024-09-29 192457](https://github.com/user-attachments/assets/5299c6ac-ef8e-4373-a046-cf4f64609233)
 ![Screenshot 2024-09-29 192223](https://github.com/user-attachments/assets/21bdb3f5-7ef8-44c1-83cb-7cbb887b1665)
 ![Screenshot 2024-09-29 192202](https://github.com/user-attachments/assets/394ea79c-694c-40cf-aa9a-5508e1b527b8)
